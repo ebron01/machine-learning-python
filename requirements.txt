@@ -1,0 +1,12 @@
+notebook
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+lxml
+html5lib
+BeautifulSoup4
+plotly
+cufflinks
+nltk

@@ -1,0 +1,12 @@
+1-machine learning
+2-linear regression
+3-bias variance trade off
+4-logistic regression
+5-k nearest neighbor
+6-tree methods
+(support vector machines)
+7-k means clustering
+8-pca
+(recommender systems)
+9-nlp
+10-neural nets
